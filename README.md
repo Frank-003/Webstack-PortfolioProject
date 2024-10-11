@@ -1,2 +1,5 @@
 # Webstack-PortfolioProject 
-am building a cake website in which one can access and able to buy the cake from any place and also find where we are located
+
+A simple portfolio website built with Flask to showcase backend development projects.
+
+## Installation
